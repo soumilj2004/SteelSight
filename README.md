@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d5fd756-e088-41fb-9572-06555cd3872d" width="100%" alt="SteelSight Banner" />
+</p>
+
 # SteelSight — Satellite Commodity Intelligence Platform
 
 > A remote sensing and machine learning pipeline that derives quantitative operational activity signals from Sentinel-2 SWIR imagery across 45 Chinese steel manufacturing facilities, demonstrating a statistically significant 2-month leading indicator over World Steel Association monthly output reports.

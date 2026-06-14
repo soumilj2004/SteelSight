@@ -2,7 +2,11 @@
 
 > A remote sensing and machine learning pipeline that derives quantitative operational activity signals from Sentinel-2 SWIR imagery across 45 Chinese steel manufacturing facilities, demonstrating a statistically significant 2-month leading indicator over World Steel Association monthly output reports.
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+
+<img width="422" height="439" alt="image" src="https://github.com/user-attachments/assets/2edf2e3f-b5b3-4221-ad13-8b771a5c76e9" />
+---
+
+<img width="422" height="442" alt="image" src="https://github.com/user-attachments/assets/890c3512-e0f3-4267-848e-00caea51e31b" />
 
 ---
 
@@ -29,23 +33,52 @@ Chinese steel mills running at full capacity emit distinctive heat signatures in
 
 ## Dashboard
 
-![Signal vs Production](screenshots/signal_chart.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4101442-52b7-4e8d-b36d-0002b41afafd" width="100%" alt="image" />
+</p>
 
 *Monthly SWIR activity signal (gold) overlaid against WSA crude steel output (blue dashed).*
 
-![Commodity Prices](screenshots/commodity_chart.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c38c821-db9f-4567-b4b8-958601020113" width="100%" alt="image" />
+</p>
 
-*Iron ore and HRC steel price history. Note the sharp iron ore collapse in Q3–Q4 2021.*
+*Commodity Price History*
 
-![Facility Map](screenshots/facility_map.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdfd7c18-3f4d-408b-bdbc-fb32767b9d24" width="100%" alt="image" />
+</p>
 
 *45 monitored facilities. Dot size proportional to SWIR heat score.*
 
-![Narrative Summary](screenshots/narrative_summary.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5bd87057-cfc6-4325-aa0f-3dc24bfafc9a" width="49%" alt="image" />
+  <img src="https://github.com/user-attachments/assets/f0320a20-562c-4ea7-ac54-f68a03da1a1a" width="49%" alt="image" />
+</p>
 
-*End-to-end narrative: signal fired → output dropped → iron ore fell.*
+*Signal vs Iron Ore | Signal vs HRC Steel | Top Facilities by Heat Score*
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/625586e5-1934-4e1f-be3e-12ef1f810cf8" width="100%" alt="image" />
+</p>
+
+*Lag Correlation Analysis*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffa8b314-65e3-4fbb-8945-b77ff2790dab" width="60%" alt="image" />
+</p>
+
+*Lag Correlation Analysis*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/327cc6c8-12ed-4c0d-8485-41839f823176" width="100%" alt="image" />
+</p>
+
+*Custom Data Annotation Infrastructure- Preprocessing*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acd259ea-695e-4792-8646-3bea5dcc13d2" width="100%" alt="image" />
+</p>
 
 ## Architecture
 
@@ -199,7 +232,9 @@ python run.py
 
 Custom browser-based annotation interface — no external platform required.
 
-![Annotation Tool](screenshots/annotation_tool.png)
+
+<img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/fdd14e0d-f12e-47c3-858d-4f2fe376c6b8" />
+
 
 ```bash
 python label_tool.py
@@ -212,9 +247,9 @@ Keyboard shortcuts: `A` = Active · `I` = Idle · `S` = Skip. Auto-saves and aut
 
 ## Research Paper
 
-📄 **[SteelSight_IEEE_Paper.pdf](SteelSight_IEEE_Paper.pdf)**
+📄 **[Soumil Jain SteelSight Research Paper Final.pdf](Soumil%20Jain%20SteelSight%20Research%20Paper%20Final.pdf)**
 
-*SteelSight: Satellite-Derived SWIR Heat Indices for Predicting Chinese Crude Steel Output and Commodity Price Dynamics*
+*SteelSight: Unsupervised SWIR Thermal Anomaly Detection for National-Scale Industrial Activity Monitoring and Signal Validation via Commodity Market Dynamics*
 
 IEEE format. Covers full methodology, statistical results, interpretation of the negative correlation, limitations, and future work.
 
@@ -224,18 +259,14 @@ IEEE format. Covers full methodology, statistical results, interpretation of the
 
 The clearest illustration of the signal working in practice:
 
-- **Aug 2021:** Satellite signal peaks at 91.9% of mills active — all-time high
-- **Oct 2021:** WSA reports 14% output drop as Beijing enforces production curtailments
-- **Sep–Nov 2021:** Iron ore falls from $218/t to $96/t — a 56% collapse in 10 weeks
-- **Lead time:** Our signal indicated this 8 weeks before the price peak
+* **Aug 2021:** Satellite signal peaks at 91.9% of mills active — all-time high
+* **Oct 2021:** WSA reports 14% output drop as Beijing enforces production curtailments
+* **Sep–Nov 2021:** Iron ore falls from \$218/t to \$96/t — a 56% collapse in 10 weeks
+* **Lead time:** Our signal indicated this 8 weeks before the price peak
 
 The mechanism is coherent and independently documented:
 
-```
-Peak SWIR activity → visible pollution → regulatory response → output curtailment → demand destruction → iron ore price fall
-```
-
----
+`Peak SWIR activity` → `visible pollution` → `regulatory response` → `output curtailment` → `demand destruction` → `iron ore price fall`
 
 ## Limitations
 

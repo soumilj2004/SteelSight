@@ -1,0 +1,31 @@
+# Large data files — don't track
+data/raw_images/
+data/processed/
+data/swir_plots/
+
+# Keep these small CSV files
+!data/mills.csv
+!data/activity_scores.csv
+!data/monthly_signal.csv
+!data/wsa_steel_output.csv
+!data/financial/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

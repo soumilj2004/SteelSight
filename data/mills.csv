@@ -1,0 +1,46 @@
+mill_id,name,company,province,lat,lon,capacity_mtpa
+1,Baoshan Iron & Steel,Baowu Group,Shanghai,31.3745,121.4897,20.0
+2,Wuhan Iron & Steel,Baowu Group,Hubei,30.5928,114.5149,18.0
+3,Maanshan Iron & Steel,MASC,Anhui,31.7234,118.4856,20.0
+4,Shagang Yonggang,Shagang Group,Jiangsu,31.8765,120.6234,41.0
+5,Jiangyin Xingcheng,Shagang Group,Jiangsu,31.9123,120.2345,8.0
+6,HBIS Handan,HBIS Group,Hebei,36.6012,114.4892,18.0
+7,HBIS Shijiazhuang,HBIS Group,Hebei,38.0423,114.5231,12.0
+8,HBIS Tangshan,HBIS Group,Hebei,39.6234,118.1845,15.0
+9,Shougang Jingtang,Shougang,Hebei,39.2134,118.6723,9.7
+10,Shougang Beijing,Shougang,Beijing,39.9234,116.1923,4.0
+11,Ansteel Anshan,Ansteel Group,Liaoning,41.1234,122.9845,17.0
+12,Ansteel Bayuquan,Ansteel Group,Liaoning,40.2756,122.1234,6.5
+13,Benxi Steel,Benxi Group,Liaoning,41.2956,123.7234,8.0
+14,Fushun Special Steel,Fushun,Liaoning,41.8612,123.8923,2.0
+15,Jianlong Chengde,Jianlong Group,Hebei,40.9734,117.9234,6.0
+16,Tangshan Guofeng,Guofeng,Hebei,39.7234,118.4512,8.0
+17,Tangshan Donghua,Donghua,Hebei,39.6845,118.3923,5.0
+18,Tangshan Songting,Songting,Hebei,39.7512,118.2134,4.5
+19,Laiwu Steel,Shandong Iron,Shandong,36.1923,117.6734,12.0
+20,Rizhao Steel,Rizhao,Shandong,35.3845,119.5234,15.0
+21,Shandong Laigang,Laigang,Shandong,36.7234,117.5123,8.0
+22,Jinan Steel,Jinan,Shandong,36.6512,117.0234,5.0
+23,Linyi Steel,Linyi,Shandong,35.0923,118.3412,4.0
+24,Taiyuan Iron & Steel,TISCO,Shanxi,37.8234,112.5923,8.0
+25,Yangquan Coal & Iron,Yangquan,Shanxi,37.8612,113.5734,3.0
+26,Jiu Steel,Jiuquan,Gansu,39.7345,98.5123,6.0
+27,Baotou Steel,Inner Mongolia,Inner Mongolia,40.6123,109.8234,16.0
+28,Chengde Jianlong,Jianlong,Hebei,40.9512,117.9845,5.5
+29,Xinyu Steel,Xinyu,Jiangxi,27.8234,114.9234,9.0
+30,Fangda Special Steel,Fangda,Jiangxi,28.5923,115.8134,4.0
+31,Nanchang Steel,Nanchang,Jiangxi,28.6734,115.9234,3.0
+32,Liuzhou Iron & Steel,Liuzhou,Guangxi,24.3123,109.4234,8.0
+33,Guangzhou Steel,Guangzhou,Guangdong,23.1512,113.2923,4.0
+34,Zenith Steel Changzhou,Zenith,Jiangsu,31.7845,119.9734,5.0
+35,Hunan Valin Xiangtan,Hunan Valin,Hunan,27.8512,112.9234,10.0
+36,Hunan Valin Lianyuan,Hunan Valin,Hunan,27.6923,111.6645,6.0
+37,Chongqing Steel,Chongqing,Chongqing,29.5734,106.5512,8.0
+38,Panzhihua Steel,Panzhihua,Sichuan,26.5923,101.7234,8.0
+39,Kunming Steel,Yunnan,Yunnan,25.0634,102.6923,3.0
+40,Hangzhou Iron & Steel,Hangzhou,Zhejiang,30.2923,120.1734,4.0
+41,Nanjing Iron & Steel,Nanjing,Jiangsu,31.9734,118.7923,10.0
+42,Yongfeng Steel,Yongfeng,Hebei,37.8345,115.5123,3.5
+43,Delong Steel,Delong,Hebei,36.9512,114.9234,6.0
+44,Hegang Steel,Hegang,Heilongjiang,47.3923,130.2845,5.0
+45,Tonghua Steel,Tonghua,Jilin,41.7234,125.9512,3.5

@@ -1,0 +1,15 @@
+comparison,price_col,lag_months,r,r2,p,n
+Iron Ore (USD/t),iron_ore_usd,0,-0.0276,0.0008,0.818041,72
+Iron Ore (USD/t),iron_ore_usd,1,-0.1204,0.0145,0.317156,71
+Iron Ore (USD/t),iron_ore_usd,2,-0.1787,0.0319,0.138947,70
+Iron Ore (USD/t),iron_ore_usd,3,-0.1239,0.0154,0.310329,69
+Iron Ore (USD/t),iron_ore_usd,4,0.0356,0.0013,0.773489,68
+Iron Ore (USD/t),iron_ore_usd,5,0.2377,0.0565,0.052786,67
+Iron Ore (USD/t),iron_ore_usd,6,0.3404,0.1159,0.005164,66
+HRC Steel (USD/st),hrc_steel_usd,0,0.0117,0.0001,0.922254,72
+HRC Steel (USD/st),hrc_steel_usd,1,0.0174,0.0003,0.885445,71
+HRC Steel (USD/st),hrc_steel_usd,2,0.026,0.0007,0.831057,70
+HRC Steel (USD/st),hrc_steel_usd,3,0.0379,0.0014,0.756955,69
+HRC Steel (USD/st),hrc_steel_usd,4,0.0518,0.0027,0.674913,68
+HRC Steel (USD/st),hrc_steel_usd,5,0.0925,0.0086,0.456638,67
+HRC Steel (USD/st),hrc_steel_usd,6,0.1427,0.0204,0.252885,66

@@ -7,10 +7,7 @@
 > A remote sensing and machine learning pipeline that derives quantitative operational activity signals from Sentinel-2 SWIR imagery across 45 Chinese steel manufacturing facilities, demonstrating a statistically significant 2-month leading indicator over World Steel Association monthly output reports.
 
 
-<img width="422" height="439" alt="image" src="https://github.com/user-attachments/assets/2edf2e3f-b5b3-4221-ad13-8b771a5c76e9" />
----
-
-<img width="422" height="442" alt="image" src="https://github.com/user-attachments/assets/890c3512-e0f3-4267-848e-00caea51e31b" />
+<img width="422" height="439" alt="image" src="https://github.com/user-attachments/assets/2edf2e3f-b5b3-4221-ad13-8b771a5c76e9" />  <img width="422" height="442" alt="image" src="https://github.com/user-attachments/assets/890c3512-e0f3-4267-848e-00caea51e31b" />
 
 ---
 

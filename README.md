@@ -69,7 +69,7 @@ Chinese steel mills running at full capacity emit distinctive heat signatures in
   <img src="https://github.com/user-attachments/assets/ffa8b314-65e3-4fbb-8945-b77ff2790dab" width="60%" alt="image" />
 </p>
 
-*Lag Correlation Analysis*
+*The Full Process*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/327cc6c8-12ed-4c0d-8485-41839f823176" width="100%" alt="image" />

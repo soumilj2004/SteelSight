@@ -67,6 +67,8 @@ Chinese steel mills running at full capacity emit distinctive heat signatures in
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ffa8b314-65e3-4fbb-8945-b77ff2790dab" width="60%" alt="image" />
+  <img width="1730" height="823" alt="lag_analysis" src="https://github.com/user-attachments/assets/90136b58-7f57-4640-9c49-4476aa0555b1" />
+
 </p>
 
 *The Full Process*
@@ -79,6 +81,10 @@ Chinese steel mills running at full capacity emit distinctive heat signatures in
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/acd259ea-695e-4792-8646-3bea5dcc13d2" width="100%" alt="image" />
+  <img width="2630" height="1532" alt="mill_heatmap" src="https://github.com/user-attachments/assets/27d73c11-bdfc-4db3-8ff1-b4f4dc534f4b" />
+
+<img width="1147" height="943" alt="scatter_correlation" src="https://github.com/user-attachments/assets/bfb1736a-84f5-44da-ac51-f80fce675a48" />
+
 </p>
 
 ## Architecture
